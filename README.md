@@ -1,12 +1,15 @@
 # HIST3814O: Crafting Digital History
-## Sheskay
+### Sheskay
 
 This is a site I build with gh-pages. **Wow**. Not really though, I just slightly edited the file I was supposed to use.
 
-It reads [markdown](https://www.markdownguide.org/) and turns it into html.
+## Contextualizing
+[Click Here](https://github.com/BSheskay/Contextualizing) to view my work on Contextualizing digital history. With that unit, I looked back and reflected on my previous work at Carleton, and added some context to the way that I view digital history.
 
-![gif ftw](https://thumbs.gfycat.com/FearfulBleakBlesbok-size_restricted.gif)
+## Wrangling
+[Click Here](https://github.com/BSheskay/Wrangling) to view my work on Wrangling digital history. With that unit, I began to work with some of the basic tools that digital historians use in their work. 
 
-### Jekyll Themes
+## Arguing
+[Click Here](https://github.com/BSheskay/Arguing) to view my work on... Well this. In this unit, its quite a bit more open, it allows for different ways to look at and analyse data that we gather in our work.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BSheskay/sheskay.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![gif dance](https://thumbs.gfycat.com/FearfulBleakBlesbok-size_rew
