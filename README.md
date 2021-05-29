@@ -1,5 +1,5 @@
 # HIST3814O: Crafting Digital History
-### Sheskay
+#### Sheskay
 
 This is a site I build with gh-pages. **Wow**. Not really though, I just slightly edited the file I was supposed to use.
 
@@ -12,4 +12,4 @@ This is a site I build with gh-pages. **Wow**. Not really though, I just slightl
 ## Arguing
 [Click Here](https://github.com/BSheskay/Arguing) to view my work on... Well this. In this unit, its quite a bit more open, it allows for different ways to look at and analyse data that we gather in our work.
 
-![gif dance](https://thumbs.gfycat.com/FearfulBleakBlesbok-size_rew
+![gif dance](https://thumbs.gfycat.com/JointFrightenedAcornbarnacle-size_restricted.gif)
