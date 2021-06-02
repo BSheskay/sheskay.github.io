@@ -10,6 +10,6 @@ This is a site I build with gh-pages. **Wow**. Not really though, I just slightl
 [Click Here](https://github.com/BSheskay/Wrangling) to view my work on Wrangling digital history. With that unit, I began to work with some of the basic tools that digital historians use in their work. 
 
 ## Arguing
-[Click Here](https://github.com/BSheskay/Arguing) to view my work on... Well this. In this unit, its quite a bit more open, it allows for different ways to look at and analyse data that we gather in our work.
+[Click Here](https://github.com/BSheskay/Arguing) to view my work on... Well this. In this unit, its quite a bit more open, it allows for different ways to look at and analyse data that we gather in our work. For example, in my work, one of the tutorials I worked on was  [Webmapping with Leaflet, which you can see here.](https://bsheskay.github.io/sheskay.github.io/web-map/index.html)
 
 ![gif dance](https://thumbs.gfycat.com/JointFrightenedAcornbarnacle-size_restricted.gif)
